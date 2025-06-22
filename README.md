@@ -14,5 +14,4 @@ pip install gym-super-mario-bros nes-py opencv-python tqdm numpy
 ```bash
 python dataset_gen.py
 python train_diffusion.py
-python test.py
 ```
